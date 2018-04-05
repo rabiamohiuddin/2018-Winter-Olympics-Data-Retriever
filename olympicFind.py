@@ -119,6 +119,5 @@ def main():
         choice = displayOptions()
         
     conn.close()    
-        
-        
+              
 main()
