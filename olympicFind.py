@@ -1,6 +1,5 @@
-# Lab 8: Data Storage
+# Data Storage
 # Rabia Mohiuddin
-# CIS 41B
 # Winter 2018
 
 import sqlite3
